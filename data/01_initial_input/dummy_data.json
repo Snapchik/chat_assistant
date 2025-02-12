@@ -1,0 +1,17 @@
+{
+    "category": "электроника",
+    "suppliers": [
+      {"name": "ООО 'ТехноСнаб'", "contact": "snapikk@gmail.com"},
+      {"name": "ИП Иванов", "contact": "telegram:@burkhansan"}
+    ],
+    "parameters": [
+      "Название товара",
+      "Минимальный объем заказа",
+      "Цена за единицу",
+      "Сроки поставки",
+      "Гарантия"
+    ],
+    "communication_format": "email",
+    "language": "русский"
+  }
+  
