@@ -1,0 +1,21 @@
+# Core dependencies
+openai>=1.0.0
+python-telegram-bot>=20.0
+pandas>=2.0.0
+pydantic-settings>=2.0.0
+
+# Email handling
+telethon>=1.34.0
+
+# Utilities
+python-dotenv>=1.0.0
+tenacity>=8.0.0
+
+# Excel support
+openpyxl>=3.0.0
+
+# Async support
+asyncio>=3.4.3
+
+# Logging and error handling
+logging>=0.5.1.2 
