@@ -1,8 +1,8 @@
 {
     "category": "электроника",
     "suppliers": [
-      {"name": "ООО 'ТехноСнаб'", "contact": "snapikk@gmail.com"},
-      {"name": "ИП Иванов", "contact": "telegram:@burkhansan"}
+      {"name": "ООО 'ТехноСнаб'", "contact": "timurburkhanov357@gmail.com"},
+      {"name": "ИП Иванов", "contact": "snap-god@bk.ru"}
     ],
     "parameters": [
       "Название товара",
